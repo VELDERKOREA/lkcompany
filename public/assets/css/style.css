@@ -463,21 +463,20 @@ p {
 }
 
 .hero-content h1 {
-  font-size: 40px;
-  font-weight: 700;
-  margin-bottom: 10px;
+  font-size: 90px;
   text-transform: uppercase;
-  color: #fff;
+  color: rgb(255, 255, 255);
+  margin-left: -25px;
 }
 
 .hero-content p {
-  font-size: 13px;
+  font-size: 20px;
   letter-spacing: 3px;
   margin-top: 0;
   margin-bottom: 30px;
   text-transform: capitalize;
   color: #fff;
-  font-weight: 500;
+  font-weight: 1000;
 }
 
 .hero-content .list-social li {
